@@ -1,0 +1,10 @@
+button {
+    display: block;
+    font-size: 24pt;
+    width: 100px;
+    margin: 5px 0;
+  }
+
+  img {
+    width: 500px;
+  }
